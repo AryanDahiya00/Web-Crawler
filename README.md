@@ -16,7 +16,7 @@
 ## Introduction
 
 This report provides a detailed analysis of the "Web Crawler" project, which is implemented in a Python file named `main.py`. The web crawler is a program that systematically browses and collects information from websites, starting from a given root URL and following links to a specified depth.
-
+![alt text](https://github.com/AryanDahiya00/Web-Crawler/blob/main/Capture.JPG)
 ## Code Overview
 
 The code is structured into several key components:
